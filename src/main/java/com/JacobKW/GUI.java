@@ -409,13 +409,13 @@ public class GUI extends JFrame implements ActionListener {
 
                 // game of life
 
-				/*if ((infectedNeighbours == 2 || infectedNeighbours == 3) && simulator.myArray[i][j].state == 1) {
-					newGrid.myArray[i][j].infect();
-				} else if (infectedNeighbours == 3 && simulator.myArray[i][j].state == 0) {
-					newGrid.myArray[i][j].infect();
-				} else {
-					newGrid.myArray[i][j].save();
-				}*/
+//				if ((infectedNeighbours == 2 || infectedNeighbours == 3) && simulator.myArray[i][j].state == 1) {
+//					newGrid.myArray[i][j].infect();
+//				} else if (infectedNeighbours == 3 && simulator.myArray[i][j].state == 0) {
+//					newGrid.myArray[i][j].infect();
+//				} else {
+//					newGrid.myArray[i][j].save();
+//				}
 
             }
         }
